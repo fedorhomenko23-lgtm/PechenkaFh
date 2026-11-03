@@ -1,0 +1,7 @@
+path: ./
+train: images/train
+val: images/val
+names:
+  0: game
+  1: ads_close
+  2: upgrade
